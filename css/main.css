@@ -10,7 +10,7 @@
     --mainBlue: #11b5e4;
 }
 body {
-    background: var(--mainWhite);
+    /* background: var(--mainWhite) !important; */
     background: yellow;
     color: #333333;
     font-family: "Just Another Hand", cursive;
@@ -72,5 +72,5 @@ body {
 #itemInput {
     font-size: 1.5rem;
     letter-spacing: 2px;
-    background: yellow;
+    background: yellow !important;
 }
